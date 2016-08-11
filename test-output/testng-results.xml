@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16589" started-at="2016-05-08T15:17:05Z" finished-at="2016-05-08T15:17:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16589" started-at="2016-05-08T15:17:05Z" finished-at="2016-05-08T15:17:22Z">
+      <class name="com.tests.twitter.tests.MainTestClass">
+        <test-method status="PASS" signature="testpages()[pri:0, instance:com.tests.twitter.tests.MainTestClass@1ee9faa]" name="testpages" duration-ms="16568" started-at="2016-05-08T08:17:05Z" finished-at="2016-05-08T08:17:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpages -->
+      </class> <!-- com.tests.twitter.tests.MainTestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
