@@ -26,8 +26,8 @@ public class MainTestClass {
 		
 		//twitterLoginpage lp = PageFactory.initElements(driver, twitterLoginpage.class);
 		twitterLoginpage lp = ip.ClickOnlogin();
-		lp.Enteremailinfo("seleniumv1@gmail.com");
-		lp.Enterpasswordinfo("Testing123!");
+		lp.Enteremailinfo("ENTER_INFO");
+		lp.Enterpasswordinfo("ENTER_INFO");
 		lp.LoginButton.click();
 		Thread.sleep(5000);
 		driver.quit();
